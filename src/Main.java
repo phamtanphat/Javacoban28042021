@@ -22,7 +22,7 @@ public class Main {
 //         () = chứa giá trị
 //        int a = 15;
 //        int b = 10;
-//        if (a < b) {
+//        if (a < b){
 //            System.out.print("-1");
 //        }else if (a == b){
 //            System.out.print("0");
@@ -47,9 +47,46 @@ public class Main {
 //        3 + 6
 //        9
 //        System.out.print(ketQua);
+//        int a = 5;
+//        int b = a % 2;
+//        System.out.print(b);
+
+//        4 : Vong lap
+//        for (int i = 0 ; i <= 100 ; i++){
+//            // In so le
+//            // In So chia 3 du 1 Vi du : 4 / 3 = 1
+//        }
+
+//        5 : Cau dieu kien re nhanh
+//        format code : ctrl + alt + shift + l
+//        int thang = 8;
+//        switch (thang) {
+//            case 1:
+//            case 2:
+//            case 3:
+//                System.out.println("Quy 1");
+//                break;
+//            case 4:
+//            case 5:
+//            case 6:
+//                System.out.println("Quy 2");
+//                break;
+//            case 7:
+//            case 8:
+//            case 9:
+//                System.out.println("Quy 3");
+//                break;
+//            case 10:
+//            case 11:
+//            case 12:
+//                System.out.println("Quy 4");
+//                break;
+//            default:
+//                System.out.println("Khong thuoc quy nao");
+//                break;
+//        }
 
 
-        // 3 , 7  ,17
 
     }
 }
